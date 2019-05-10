@@ -1,0 +1,15 @@
+{
+  "defaultSeverity": "warning",
+  "extends": ["tslint:recommended"],
+  "linterOptions": {
+    "exclude": ["node_modules/**", "src/types/**"]
+  },
+  "rules": {
+    "indent": [true, "spaces", 2],
+    "interface-name": false,
+    "member-access": [true, "no-public"],
+    "no-consecutive-blank-lines": false,
+    "ordered-imports": false,
+    "object-literal-sort-keys": false
+  }
+}
