@@ -1,5 +1,3 @@
-# my-vue-starter
-
 Starter project with vue, vue-cli, typescript, vuex, vuetify.
 
 ## Project setup
